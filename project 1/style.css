@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
-* {
-    box-sizing: border-box;
-}
 
 body {
     background-color: #2980b9;
@@ -33,8 +30,7 @@ h2 {
     padding-bottom: 20px;
     position: relative;
 }
-.rgin-bottom: 5px;
-}
+
 .form-control label{
     color: cadetblue;
     display: block;
@@ -50,7 +46,7 @@ h2 {
 }
 .form-control input:focus {
     outline: 0;
-    border-color: rgb(87, 191, 209);
+    border-color: rgb(12, 77, 88);
 }
 
 
